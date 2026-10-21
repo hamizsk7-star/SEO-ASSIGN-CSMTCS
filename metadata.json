@@ -1,0 +1,6 @@
+{
+  "name": "Sillage & Matière — Journal of Haute Parfumerie & Botanical Architecture",
+  "description": "An independent editorial journal exploring the art of niche perfumery, rare botanical extractions, molecular olfactory science, and scent architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

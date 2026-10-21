@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Editorial typography refinements */
+.font-editorial-serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-editorial-sans {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* Smooth reading line height */
+article p {
+  text-wrap: pretty;
+}
